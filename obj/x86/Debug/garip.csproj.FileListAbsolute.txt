@@ -1,0 +1,8 @@
+c:\users\acer-v3\documents\visual studio 2010\Projects\garip\garip\bin\Debug\garip.exe
+c:\users\acer-v3\documents\visual studio 2010\Projects\garip\garip\bin\Debug\garip.pdb
+c:\users\acer-v3\documents\visual studio 2010\Projects\garip\garip\obj\x86\Debug\garip.Form1.resources
+c:\users\acer-v3\documents\visual studio 2010\Projects\garip\garip\obj\x86\Debug\garip.Properties.Resources.resources
+c:\users\acer-v3\documents\visual studio 2010\Projects\garip\garip\obj\x86\Debug\garip.csproj.GenerateResource.Cache
+c:\users\acer-v3\documents\visual studio 2010\Projects\garip\garip\obj\x86\Debug\garip.exe
+c:\users\acer-v3\documents\visual studio 2010\Projects\garip\garip\obj\x86\Debug\garip.pdb
+C:\Users\ACER-V3\documents\visual studio 2010\Projects\garip\garip\obj\x86\Debug\garip.csprojResolveAssemblyReference.cache
